@@ -1,4 +1,4 @@
-# MOVIE RECOMMENDER SERVICE
+# MOVIE RECOMMENDER SERVICE - ITEM-BASED COLLABORATIVE FILTERING RECOMMENDATION
 
 * The movie recommender service as the name implies recommends Movie based on the Item and User Ratings.
 * The Dataset we are analysing is the movielens dataset.
